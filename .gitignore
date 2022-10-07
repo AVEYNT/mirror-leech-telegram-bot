@@ -1,4 +1,5 @@
 config.env
+config_sample.env
 *auth_token.txt
 *.pyc
 data*
@@ -8,6 +9,8 @@ data*
 *.pickle
 .netrc
 log.txt
+authorized_chats.txt
+sudo_users.txt
 accounts/*
 Thumbnails/*
 drive_folder
